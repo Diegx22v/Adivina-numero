@@ -24,7 +24,6 @@ while h!="x":
             r=int(r+1)
             import random
             b=int(0)
-            n=["1","2","3","4","5","6","7","8","9","10"]
             a= random.choice(n)
             print("<<<< RONDA: ",ro,">>>>")
             print("")
